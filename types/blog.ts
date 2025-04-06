@@ -1,4 +1,3 @@
-// types/blog.ts
 
 // types/blog.ts
 export interface Blog {

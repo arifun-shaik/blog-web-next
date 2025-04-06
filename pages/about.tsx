@@ -79,11 +79,11 @@ export default function About() {
     },
   ];
 
-  const handleRepoClick = (url) => {
+  const handleRepoClick = (url:string) => {
     window.open(url);
   };
 
-  const handleBookClick = (url) => {
+  const handleBookClick = (url:string) => {
     window.open(url);
   };
 
